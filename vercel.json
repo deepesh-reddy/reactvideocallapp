@@ -1,6 +1,10 @@
 {
   "routes": [
     {
+      "src": "/",
+      "dest": "/index.html"
+    },
+    {
       "src": "/room/([^/]+)",
       "dest": "/index.html"
     }
