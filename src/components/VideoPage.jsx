@@ -47,7 +47,7 @@ const VideoPage = () => {
 
     return (
         <div>
-            VideoPage {id}
+            VideoCall App by Deepesh Reddy {id}
             <div ref={myMeeting}></div>
         </div>
     );
